@@ -31,7 +31,7 @@ Select **Method Request**.
 
 ![](/media/articles/integrations/aws-api-gateway-2/part-3/pt3-3.png)
 
-Under **Settings**, click the **pencil** icon to the right **Authorization** and choose the `jwt-rsa-custom-authorizer` custom authorizer you created in [part 3](/integrations/aws-api-gateway-2/part-3). 
+Under **Settings**, click the **pencil** icon to the right **Authorization** and choose the `jwt-rsa-custom-authorizer` custom authorizer you created in [part 3](/integrations/aws-api-gateway/custom-authorizers/part-3). 
 
 ![](/media/articles/integrations/aws-api-gateway-2/part-3/pt3-4.png)
 
